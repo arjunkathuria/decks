@@ -2,6 +2,10 @@
 
 the deck is a keynote file. other formats and links will be available shortly
 
+UPDATE 0:
+
+The PDF format for the [WIP] deck was added.
+
 #### Code
 
 the code used for the deck can be found [here at this repo][ml_code]
